@@ -1,0 +1,62 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Monster Abra A5 V13.3",
+      "category": 1,
+      "unitPrice": 2999.99
+    },
+    {
+      "id": 2,
+      "productName": "Mi 9T",
+      "category": 2,
+      "unitPrice": 4999.99
+    },
+    {
+      "id": 3,
+      "productName": "RTX 3090 Ti",
+      "category": 3,
+      "unitPrice": 19999.99
+    },
+    {
+      "id": 4,
+      "productName": "Logitech Z407",
+      "category": 4,
+      "unitPrice": 1099
+    },
+    {
+      "id": 5,
+      "productName": "Logitech G402",
+      "category": 5,
+      "unitPrice": 399
+    },
+    {
+      "id": 6,
+      "productName": "Samsung Galaxy X",
+      "category": 2,
+      "unitPrice": 9999
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Computers"
+    },
+    {
+      "id": 2,
+      "categoryName": "Phones"
+    },
+    {
+      "id": 3,
+      "categoryName": "GPUs"
+    },
+    {
+      "id": 4,
+      "categoryName": "Speakers"
+    },
+    {
+      "id": 5,
+      "categoryName": "Mouses"
+    }
+  ]
+}
